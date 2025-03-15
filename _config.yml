@@ -1,7 +1,6 @@
-title: EDM_Portfolio
+title: EDM_MidtermLabTask_2
 logo : Assets/image/Pascubillo.png
 description: City College of Angeles Student Studying Bachelor of Science in Information
-show_downloads: true
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
